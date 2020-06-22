@@ -2,6 +2,8 @@
 
 This repository contains notebooks to supplement my [blog post](https://vivianrjkmr.github.io/2020/06/08/decision-boundary-plotting/) on decision boundary plotting for high-dimensional data.
 
+![](https://imgur.com/BRSQZZs.png)
+
 ### Project structure
 
 This project only contains two Jupyter notebooks. They are organised as follows.
