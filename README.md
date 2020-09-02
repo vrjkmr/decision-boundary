@@ -1,17 +1,18 @@
 # Voronoi-based decision boundaries
 
-This repository contains notebooks to supplement my [blog post](https://vivianrjkmr.github.io/2020/06/08/decision-boundary-plotting/) on decision boundary plotting for high-dimensional data.
+This repository contains notebooks to supplement my [blog post](https://vivianrjkmr.github.io/2020/09/01/decision-boundary-visualization) on decision boundary plotting for high-dimensional data.
 
-![](https://imgur.com/BRSQZZs.png)
+![](https://vivianrjkmr.github.io/assets/decbound/vis_5.png)
 
 ### Project structure
 
-This project only contains two Jupyter notebooks. They are organised as follows.
+This project contains two Jupyter notebooks and a utility script. They are organised as follows.
 
 ```
 .
 ├── Decision boundary plotting.ipynb    # notebook for decision boundary plotting
 ├── Voronoi diagram.ipynb               # notebook for Voronoi illustration
+├── utils.py                            # utility script containing helper functions for plotting
 └── README.md
 ```
 
