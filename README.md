@@ -2,7 +2,7 @@
 
 This repository contains notebooks to supplement my [blog post](https://vivianrjkmr.github.io/2020/09/01/decision-boundary-visualization) on decision boundary plotting for high-dimensional data.
 
-![](https://vivianrjkmr.github.io/assets/decbound/vis_5.png)
+![](https://vivianrjkmr.github.io/assets/decbound/6_model_comparison.png)
 
 ### Project structure
 
